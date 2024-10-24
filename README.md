@@ -1,5 +1,5 @@
 # Baicelss-Technology-Risk-Analysis
-  Known hardware CVE's {Ref: NIST 2022}
+  
 
 Baicells Historical Timeline{Ref: Google, Baicells Tech “About” page}:
 Baicells Technologies Co., Ltd. is an international technology company that began its history in China in 2014 with the deployment of 4G LTE small cells: 
